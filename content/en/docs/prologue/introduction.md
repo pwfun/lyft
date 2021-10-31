@@ -103,8 +103,6 @@ To withdraw cash from your bank account, follow these steps:
 
 At this point, the ATM returns to its main screen.  Using your finger, touch the **Finish Session** button.  If the ATM provides you with a receipt, collect it before leaving.
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
-
 ## Next steps
 
 You’ve now completed your first ATM transaction, having successfully deposited a check and then withdrawn funds in cash.  
