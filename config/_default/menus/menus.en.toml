@@ -1,5 +1,5 @@
 [[docs]]
-  name = "Assessment"
+  name = "Lyft Assessment"
   weight = 10
   identifier = "prologue"
   url = "/docs/prologue/"

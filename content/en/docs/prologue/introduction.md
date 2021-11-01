@@ -25,7 +25,7 @@ To get the most out of this guide, make sure to have the following on hand:
 * **Your debit card**
 * **Your debit card PIN number**
 
-You’ll use all three as you follow an example use case of withdrawing funds after depositing an **old-age pension check** (OAP) into your bank account.
+You’ll need all three as you follow an example use case of withdrawing funds after depositing an **old-age pension check** (OAP) into your bank account.
 
 ## Understanding ATMs
 
@@ -35,49 +35,47 @@ You’ll use all three as you follow an example use case of withdrawing funds af
 * When you’re unable to wait in line to speak with banking staff
 * When communication with banking staff proves difficult
 
-Using an ATM, you can accomplish a wide range of transactions, including cash and check deposits, withdrawals, transfers, and balance inquiries.
-
-Next, you’ll learn how to prepare for your ATM transaction.
+With an ATM, you can accomplish a wide range of transactions, including cash and check deposits, withdrawals, transfers, and balance inquiries.
 
 ## Using an ATM for the first time
 
 Suppose you’ve received your OAP check in the mail.  Using an ATM, you can deposit the check and withdraw cash from your account in three stages:
 
-1. **Preparing for ATM use**
-2. **Inserting your debit card and check**
-3. **Withdrawing funds**
+1. **Prepare for ATM use**
+2. **Insert your debit card and check**
+3. **Withdraw funds**
 
 ### Preparing for ATM use
 
-To simplify and streamline your ATM transaction, follow these steps **before** arriving at your bank:
+To streamline your transaction, follow these steps **before** arriving at the ATM location:
 
 * Confirm that the check you wish to deposit displays your legal name.
 * Endorse your check by signing its back with a pen.
 * Verify your debit card’s personal identification number (PIN).
 * Locate the ATM you’ll use for your transaction.
 
-You’ll often find ATMs at your bank’s entrance, though some branches place them in outdoor car lanes for ease of access from your vehicle.
+You’ll often find ATMs at your bank’s entrance, though some branches place them in outdoor car lanes for ease of access from a vehicle.
 
 {{< alert icon="👉" text="You must know your debit card’s PIN to use an ATM.  If you don't know your PIN, contact your bank via telephone using the number on the back of your card." />}}
 
-Next, you’ll learn how to deposit a check into an ATM.  
+Next, you’ll use your debit card to deposit the check.  
 
 ### Inserting your debit card and check
 
-Once you’ve arrived at your bank, find the ATM.  Free-standing ATMs often resemble an industrial kiosk approximately a meter in height.  Some financial institutions incorporate ATMs into walls.  Look for signage displaying the word **ATM**.
+Once you’ve arrived at your bank, find the ATM.  Free-standing ATMs often resemble an industrial kiosk approximately a meter in height.  Some financial institutions incorporate ATMs into walls.  Look for signage displaying the initials **ATM**.
 
-{{< alert icon="👉" text="Know your pin before attempting the following steps.  Excessive incorrect pin attempts could lock your account, preventing you from accessing your funds." />}}
+{{< alert icon="👉" text="Know your pin before attempting the following steps.  Multiple incorrect pin attempts could lock your account, preventing you from accessing your funds." />}}
 
-Now that you’re at the ATM, insert your debit card and follow these steps:
+Now that you’re at the ATM, follow these steps:
 
 1. Identify the ATM’s screen and read any instructions it displays.
-2. Insert your debit card into the card reader, which is usually illuminated.
+2. Insert your debit card into the slot labeled **card reader**, which is usually illuminated.
 3. Locate the ATM keypad, a set of numbers resembling a push-button telephone.
 4. When prompted, enter your PIN and press **Enter**.
 
 The ATM verifies your PIN and returns your card.  Retrieve your card and store it safely.
 
-With your identify confirmed, you’re now able to deposit your check with these steps:
+With your identity confirmed, you’re now able to deposit your check with these steps:
 
 1. Using your finger, touch the **Deposit Check** button on the ATM screen.
 2. When prompted, insert your check in the ATM’s check receptacle.
