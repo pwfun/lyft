@@ -39,7 +39,7 @@ With an ATM, you can accomplish a wide range of transactions, including cash and
 
 ## Using an ATM for the first time
 
-Suppose you’ve received your OAP check in the mail.  Using an ATM, you can deposit the check and withdraw cash from your account in three stages:
+Suppose you need to deposit your OAP check and then withdraw $100.  Using an ATM, you can deposit the check and withdraw cash from your account in three stages:
 
 1. **Prepare for ATM use**
 2. **Insert your debit card and check**
@@ -93,7 +93,7 @@ Having deposited your check into your bank account, you can now use the ATM to w
 To withdraw cash from your bank account, follow these steps:
 
 1. Using your finger, touch the **Make a Withdrawal** button on the ATM screen.
-2. The ATM presents you with withdrawal amounts.  Select your amount.
+2. The ATM presents you with withdrawal amounts.  Select $100.
 3. The ATM prompts you to confirm the amount.  Touch the **Confirm** button.
 4. The ATM discharges your cash via the cash dispenser.  Retrieve your cash.
 
