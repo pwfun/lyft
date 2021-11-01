@@ -93,7 +93,7 @@ Having deposited your check into your bank account, you can now use the ATM to w
 To withdraw cash from your bank account, follow these steps:
 
 1. Using your finger, touch the **Make a Withdrawal** button on the ATM screen.
-2. The ATM presents you with withdrawal amounts.  Select $100.
+2. The ATM presents you with withdrawal amounts.  Select **$100**.
 3. The ATM prompts you to confirm the amount.  Touch the **Confirm** button.
 4. The ATM discharges your cash via the cash dispenser.  Retrieve your cash.
 
